@@ -62,7 +62,7 @@ The topbar uses CSS classes for easy styling overrides:
 
 ## Support
 
-For support or feature requests, please visit the [GitHub repository](https://github.com/thevaibhaw).
+For support or feature requests, please visit the [TheVaibhaw](https://github.com/thevaibhaw).
 
 ## License
 
@@ -70,4 +70,4 @@ This plugin is licensed under the GPL v2 or later.
 
 ## Credits
 
-Developed by Your Name.
+Developed by Vaibhaw Kumar Parashar.
