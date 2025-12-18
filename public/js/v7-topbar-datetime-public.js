@@ -18,6 +18,7 @@
             }
             setInterval(updateTime, 1000);
         }
+        
         if (v7_topbar_datetime_vars.hide_on_scroll) {
             var lastScrollTop = 0;
             $(window).scroll(function () {
