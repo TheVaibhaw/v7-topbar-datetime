@@ -2,7 +2,7 @@
 
 A modern, responsive WordPress plugin that displays a topbar with the current date and time. The topbar is fully animated, attractive, and customizable through the admin settings.
 
-## Features
+## Features 
 
 - **Real-time Display**: Shows current date and time, updating every second.
 - **Customizable Formats**: Change date and time display formats using PHP date format strings.
