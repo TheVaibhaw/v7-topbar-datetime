@@ -10,7 +10,7 @@
  * @subpackage V7_Topbar_Datetime/public
  */
 
-/**
+/*
  * The public-facing functionality of the plugin.
  *
  * Defines the plugin name, version, and two examples hooks for how to
